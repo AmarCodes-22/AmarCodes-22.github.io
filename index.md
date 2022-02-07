@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Need for Learning](/need_for_learning)  
+[Need for Learning](https://github.com/AmarCodes-22/need_for_learning)  
 <img src="images/need_for_learning/final.png"/>
 
 ---
