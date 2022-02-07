@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
-
 [Need for Learning](https://github.com/AmarCodes-22/need_for_learning)  
 <img src="images/need_for_learning/final.png"/>
+
+---
+
+[NFS Object detection](https://github.com/AmarCodes-22/nfs_object_detection)  
+![a single screenshot](images/nfs-object-detection/placeholder.png)
 
 ---
 
